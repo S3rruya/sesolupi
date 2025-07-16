@@ -1,0 +1,43 @@
+.contratologo{
+	background-image: url("http://localhost/pnd-2190/assets/images/logo/logo.png");
+	background-position: top center;
+	background-repeat: no-repeat;
+	background-size: 80px;
+	height: 80px;
+}
+.contratobody {
+	line-height: 1.20;
+}
+.contratobody p{
+	margin: 4px 0 4px 0px;
+}
+.prelative{
+	position: relative;
+}
+.nomecampo{
+	font-size: 80%;
+  display: inline-block;
+  top: 2px;
+  position: absolute;
+  left: 8px;
+}
+
+  .linha{
+  	position: relative;
+  	border-bottom: 1px dotted black;
+  }
+  .linha i{
+  	position: absolute;
+  	top: -8px;
+  	left: -10px;
+  }
+  .boxrecibo{
+  	width: 30px;
+  	height: 30px;
+  	line-height: 30px;
+  	border: 1px solid black;
+  }
+	
+  .boxline{
+  	border: 1px solid black;
+  }
